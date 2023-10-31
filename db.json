@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "body": "redux",
+      "title": "new data",
+      "id": 44.30184580783031
+    },
+    {
+      "body": "redux-query",
+      "title": "RTK",
+      "id": 72.70150835693781
+    }
+  ]
+}
